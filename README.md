@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Talha Momnin @momintlh
-- 👀 The tech/fields I'm interested in: Flutter/App dev/Game Dev/ML etc.
+- 👀 The tech/fields I'm interested in: Flutter/Game Dev/ML etc.
 - 🖥  I’m currently doing BSCS!
 - 🌱 I’m currently learning Flutter and Dart.
-- 🎮 I love games!
+- 🎮 I love video games!
 
 
 
