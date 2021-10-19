@@ -1,0 +1,14 @@
+- 👋 Hi, I’m Talha Momnin @momintlh
+- 👀 The tech/fields I'm interested in: Flutter/App dev/Game Dev/ML etc.
+- 🖥  I’m currently doing BSCS!
+- 🌱 I’m currently learning Flutter and Dart.
+- 🎮 I love games!
+
+
+
+
+<!---
+- 📫 How to reach me ...
+momintlh/momintlh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
