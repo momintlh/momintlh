@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [mtalhamomin@gmail.com](mailto:mtalhamomin@gmail.com)
+* ✉️  Let's connect! 
 <!--* 🚀  I'm currently working on [The Last Tale](http://twitter.com/BigBrain_Games)-->
-* 🧠  I'm learning Flutter and Unity :D
+<!-- * 🧠  I'm learning Flutter and Unity :D -->
 
 ### Skills
 
